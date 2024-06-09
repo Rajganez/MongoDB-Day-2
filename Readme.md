@@ -10,7 +10,7 @@
 
 *Create DB with name Guvi*
 
-*Create collections in below names*
+*Create collections in below names and insert the JSON data in respective file names*
 
 > attendance
 
